@@ -21,6 +21,8 @@ To modify team names, simply head over to the index.html file and make the follo
 
 ## Screenshot
 
+![screenshot](https://raw.githubusercontent.com/sdas-engineer/scorecard-js/master/images/Screenshot%202022-09-10%20at%2015.20.21.png)
+
 ## Contributing
 
 If you wish to submit improvements to the javascript, or the CSS, then I welcome forks & pull requests.
